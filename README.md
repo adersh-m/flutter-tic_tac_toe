@@ -1,6 +1,6 @@
-# tic_tac_toe
+# Tic Tac Toe - Flutter App
 
-A new Flutter project.
+A simple Tic-Tac-Toe app created using Flutter project.
 
 ## Getting Started
 
